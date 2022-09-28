@@ -1,0 +1,3 @@
+[![EditorConfig](https://github.com/yuarkhipenko/course_work/actions/workflows/EditorConfig.yml/badge.svg?branch=master)](https://github.com/yuarkhipenko/course_work/actions/workflows/EditorConfig.yml)
+
+[![HTML CSS valid](https://github.com/yuarkhipenko/course_work/actions/workflows/HTML5Validator.yml/badge.svg?branch=master)](https://github.com/yuarkhipenko/course_work/actions/workflows/HTML5Validator.yml)
